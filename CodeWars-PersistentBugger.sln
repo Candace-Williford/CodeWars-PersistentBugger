@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars-PersistentBugger", "CodeWars-PersistentBugger\CodeWars-PersistentBugger.csproj", "{828446E9-FA8D-402D-9B8E-A10B49B513CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistentBuggerTests", "PersistentBuggerTests\PersistentBuggerTests.csproj", "{E709564A-EDC5-44BB-AFC6-49BA27F066DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828446E9-FA8D-402D-9B8E-A10B49B513CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828446E9-FA8D-402D-9B8E-A10B49B513CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828446E9-FA8D-402D-9B8E-A10B49B513CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828446E9-FA8D-402D-9B8E-A10B49B513CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E709564A-EDC5-44BB-AFC6-49BA27F066DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E709564A-EDC5-44BB-AFC6-49BA27F066DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E709564A-EDC5-44BB-AFC6-49BA27F066DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E709564A-EDC5-44BB-AFC6-49BA27F066DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\bin\Debug\PersistentBuggerTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\bin\Debug\PersistentBuggerTests.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\bin\Debug\CodeWars-PersistentBugger.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\bin\Debug\CodeWars-PersistentBugger.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\obj\Debug\PersistentBuggerTests.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\obj\Debug\PersistentBuggerTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-PersistentBugger\PersistentBuggerTests\obj\Debug\PersistentBuggerTests.pdb
